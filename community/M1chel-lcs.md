@@ -1,1 +1,40 @@
+<h3>Michel Lucas</h3>
+
+<h3>Conecte-se comigo</h3>
+<a href="https://www.linkedin.com/in/michel-lucas-silva/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<hr>
+
+<h3>Habilidades</h3>
+
+<ul>
+  <li>Atendimento ao cliente</li>
+  <li>Suporte técnico</li>
+  <li>Análise de processos</li>
+  <li>Programação em Python, JavaScript</li>
+</ul>
+
+
+<hr>
+
+<h3>Linguagens Utilizadas</h3>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=M1chel-lcs&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Languages">
+
+<hr>
+
+<h3>GitHub Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=m1chel-lcs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
+
+<hr>
+
+<h3>Minhas Contribuições</h3>
+
+<hr>
+
+<h3>Repositórios</h3>
+<a href="https://github.com/M1chel-lcs/dio-lab-open-source" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M1chel-lcs&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="DIO Lab Open Source Repo">
+</a>
 
